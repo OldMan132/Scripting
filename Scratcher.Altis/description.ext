@@ -1,0 +1,15 @@
+#include "UI\defines.hpp"
+#include "UI\control.hpp"
+
+
+class CfgFunctions
+{
+	class TES
+	{
+		class Files
+		{
+			class scratcher {};
+            class scratcherGUI {};
+		};
+	};
+};
